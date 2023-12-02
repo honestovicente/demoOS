@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\demoOS\demoOS\bin\Debug\net6.0\demoOS.deps.json
+C:\Users\user\source\repos\demoOS\demoOS\bin\Debug\net6.0\demoOS.dll
+C:\Users\user\source\repos\demoOS\demoOS\bin\Debug\net6.0\demoOS.pdb
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\demoOS.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\demoOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\demoOS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\demoOS.AssemblyInfo.cs
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\demoOS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\demoOS.dll
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\refint\demoOS.dll
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\demoOS.pdb
+C:\Users\user\source\repos\demoOS\demoOS\obj\Debug\net6.0\ref\demoOS.dll
